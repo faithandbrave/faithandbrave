@@ -27,6 +27,7 @@
 - [@fixstars](https://github.com/fixstars)
 
 ##### ブロンズスポンサー
+- [@pocketberserker](https://github.com/pocketberserker)
 
 ##### アイアンスポンサー
 - [@s-hiiragi](https://github.com/s-hiiragi)
