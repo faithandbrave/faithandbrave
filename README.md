@@ -31,8 +31,10 @@
 - [@s-hiiragi](https://github.com/s-hiiragi)
 - [@Reputeless](https://github.com/Reputeless)
 - [@yutopp](https://github.com/yutopp)
+- [@hsimyu](https://github.com/hsimyu)
 
 ##### 一時スポンサー
 - [@cuminseed](https://github.com/cuminseed)
 - [@kmt-t](https://github.com/kmt-t)
 - [@azaika](https://github.com/azaika)
+- [@mattn](https://github.com/mattn)
