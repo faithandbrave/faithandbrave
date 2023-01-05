@@ -41,3 +41,4 @@
 - [@kmt-t](https://github.com/kmt-t)
 - [@azaika](https://github.com/azaika)
 - [@mattn](https://github.com/mattn)
+- [@Tana0910](https://github.com/Tana0910)
