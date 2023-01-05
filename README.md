@@ -35,3 +35,4 @@
 ##### 一時スポンサー
 - [@cuminseed](https://github.com/cuminseed)
 - [@kmt-t](https://github.com/kmt-t)
+- [@azaika](https://github.com/azaika)
