@@ -30,6 +30,7 @@
 ##### アイアンスポンサー
 - [@s-hiiragi](https://github.com/s-hiiragi)
 - [@Reputeless](https://github.com/Reputeless)
+- [@yutopp](https://github.com/yutopp)
 
 ##### 一時スポンサー
 - [@cuminseed](https://github.com/cuminseed)
