@@ -26,3 +26,6 @@
 - [@dromozoa](https://github.com/dromozoa)
 
 ##### ブロンズスポンサー
+
+##### 一時スポンサー
+- [@s-hiiragi](https://github.com/s-hiiragi)
