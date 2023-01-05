@@ -24,6 +24,7 @@
 ##### ゴールドスポンサー
 ##### シルバースポンサー
 - [@dromozoa](https://github.com/dromozoa)
+- [@fixstars](https://github.com/fixstars)
 
 ##### ブロンズスポンサー
 
