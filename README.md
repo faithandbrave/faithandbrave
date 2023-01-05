@@ -29,3 +29,4 @@
 
 ##### 一時スポンサー
 - [@s-hiiragi](https://github.com/s-hiiragi)
+- [@cuminseed](https://github.com/cuminseed)
