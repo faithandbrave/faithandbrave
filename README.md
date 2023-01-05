@@ -27,6 +27,9 @@
 
 ##### ブロンズスポンサー
 
-##### 一時スポンサー
+##### アイアンスポンサー
 - [@s-hiiragi](https://github.com/s-hiiragi)
+- [@Reputeless](https://github.com/Reputeless)
+
+##### 一時スポンサー
 - [@cuminseed](https://github.com/cuminseed)
