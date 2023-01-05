@@ -32,6 +32,7 @@
 - [@Reputeless](https://github.com/Reputeless)
 - [@yutopp](https://github.com/yutopp)
 - [@hsimyu](https://github.com/hsimyu)
+- [@nekko1119](https://github.com/nekko1119)
 
 ##### 一時スポンサー
 - [@cuminseed](https://github.com/cuminseed)
