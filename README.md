@@ -35,6 +35,7 @@
 - [@hsimyu](https://github.com/hsimyu)
 - [@nekko1119](https://github.com/nekko1119)
 - [@Fuyutsubaki](https://github.com/Fuyutsubaki)
+- [@minachun](https://github.com/minachun)
 
 ##### 一時スポンサー
 - [@cuminseed](https://github.com/cuminseed)
