@@ -38,6 +38,7 @@
 - [@Fuyutsubaki](https://github.com/Fuyutsubaki)
 - [@minachun](https://github.com/minachun)
 - [@objective-audio](https://github.com/objective-audio)
+- [@termoshtt](https://github.com/termoshtt)
 
 ##### 一時スポンサー
 - [@cuminseed](https://github.com/cuminseed)
