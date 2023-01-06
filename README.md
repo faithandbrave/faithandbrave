@@ -25,6 +25,7 @@
 ##### シルバースポンサー
 - [@dromozoa](https://github.com/dromozoa)
 - [@fixstars](https://github.com/fixstars)
+- [@PegasysInc](https://github.com/PegasysInc)
 
 ##### ブロンズスポンサー
 - [@pocketberserker](https://github.com/pocketberserker)
@@ -47,3 +48,5 @@
 - [@mattn](https://github.com/mattn)
 - [@Tana0910](https://github.com/Tana0910)
 - [@pontaryagin](https://github.com/pontaryagin)
+- [@MatsuTaku](https://github.com/MatsuTaku)
+- [@hi-hori](https://github.com/hi-hori)
