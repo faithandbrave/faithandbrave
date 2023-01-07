@@ -51,3 +51,4 @@
 - [@pontaryagin](https://github.com/pontaryagin)
 - [@MatsuTaku](https://github.com/MatsuTaku)
 - [@hi-hori](https://github.com/hi-hori)
+- [@kztomita](https://github.com/kztomita)
