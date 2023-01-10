@@ -41,6 +41,7 @@
 - [@objective-audio](https://github.com/objective-audio)
 - [@termoshtt](https://github.com/termoshtt)
 - [@kbinani](https://github.com/kbinani)
+- [@rita0222](https://github.com/rita0222)
 
 ##### 一時スポンサー
 - [@cuminseed](https://github.com/cuminseed)
