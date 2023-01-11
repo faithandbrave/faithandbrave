@@ -43,6 +43,7 @@
 - [@kbinani](https://github.com/kbinani)
 - [@rita0222](https://github.com/rita0222)
 - [@soramimi](https://github.com/soramimi)
+- [@m2ym](https://github.com/m2ym)
 
 ##### 一時スポンサー
 - [@cuminseed](https://github.com/cuminseed)
