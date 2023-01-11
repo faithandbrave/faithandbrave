@@ -26,6 +26,7 @@
 - [@dromozoa](https://github.com/dromozoa)
 - [@fixstars](https://github.com/fixstars)
 - [@PegasysInc](https://github.com/PegasysInc)
+- [@cube-soft](https://github.com/cube-soft)
 
 ##### ブロンズスポンサー
 - [@pocketberserker](https://github.com/pocketberserker)
