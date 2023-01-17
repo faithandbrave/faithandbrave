@@ -57,3 +57,4 @@
 - [@MatsuTaku](https://github.com/MatsuTaku)
 - [@hi-hori](https://github.com/hi-hori)
 - [@kztomita](https://github.com/kztomita)
+- [@@yuukicammy](https://github.com/yuukicammy)
