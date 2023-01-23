@@ -30,6 +30,7 @@
 
 ##### ブロンズスポンサー
 - [@pocketberserker](https://github.com/pocketberserker)
+- [@AsPJT](https://github.com/AsPJT)
 
 ##### アイアンスポンサー
 - [@s-hiiragi](https://github.com/s-hiiragi)
