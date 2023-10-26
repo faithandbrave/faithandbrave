@@ -59,3 +59,4 @@
 - [@hi-hori](https://github.com/hi-hori)
 - [@kztomita](https://github.com/kztomita)
 - [@@yuukicammy](https://github.com/yuukicammy)
+- [@udemegane](https://github.com/udemegane)
