@@ -29,24 +29,18 @@
 - [@cube-soft](https://github.com/cube-soft)
 
 ##### ブロンズスポンサー
-- [@pocketberserker](https://github.com/pocketberserker)
 - [@AsPJT](https://github.com/AsPJT)
 
 ##### アイアンスポンサー
 - [@s-hiiragi](https://github.com/s-hiiragi)
 - [@Reputeless](https://github.com/Reputeless)
-- [@yutopp](https://github.com/yutopp)
 - [@hsimyu](https://github.com/hsimyu)
 - [@nekko1119](https://github.com/nekko1119)
 - [@Fuyutsubaki](https://github.com/Fuyutsubaki)
-- [@minachun](https://github.com/minachun)
 - [@objective-audio](https://github.com/objective-audio)
-- [@termoshtt](https://github.com/termoshtt)
 - [@kbinani](https://github.com/kbinani)
 - [@rita0222](https://github.com/rita0222)
 - [@soramimi](https://github.com/soramimi)
-- [@m2ym](https://github.com/m2ym)
-- [@kyorohiro](https://github.com/kyorohiro)
 
 ##### 一時スポンサー
 - [@cuminseed](https://github.com/cuminseed)
@@ -58,5 +52,15 @@
 - [@MatsuTaku](https://github.com/MatsuTaku)
 - [@hi-hori](https://github.com/hi-hori)
 - [@kztomita](https://github.com/kztomita)
-- [@@yuukicammy](https://github.com/yuukicammy)
+- [@yuukicammy](https://github.com/yuukicammy)
 - [@udemegane](https://github.com/udemegane)
+
+
+##### 過去のスポンサー
+- [@pocketberserker](https://github.com/pocketberserker)
+- [@zorio](https://github.com/zorio)
+- [@m2ym](https://github.com/m2ym)
+- [@termoshtt](https://github.com/termoshtt)
+- [@yutopp](https://github.com/yutopp)
+- [@kyorohiro](https://github.com/kyorohiro)
+- [@minachun](https://github.com/minachun)
