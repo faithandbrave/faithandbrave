@@ -41,6 +41,7 @@
 - [@kbinani](https://github.com/kbinani)
 - [@rita0222](https://github.com/rita0222)
 - [@soramimi](https://github.com/soramimi)
+- [@ysaito8015](https://github.com/ysaito8015)
 
 ##### 一時スポンサー
 - [@cuminseed](https://github.com/cuminseed)
