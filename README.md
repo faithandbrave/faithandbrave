@@ -42,6 +42,7 @@
 - [@rita0222](https://github.com/rita0222)
 - [@soramimi](https://github.com/soramimi)
 - [@ysaito8015](https://github.com/ysaito8015)
+- [@srz-zumix](https://github.com/srz-zumix)
 
 ##### 一時スポンサー
 - [@cuminseed](https://github.com/cuminseed)
