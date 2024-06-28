@@ -43,6 +43,7 @@
 - [@soramimi](https://github.com/soramimi)
 - [@ysaito8015](https://github.com/ysaito8015)
 - [@srz-zumix](https://github.com/srz-zumix)
+- [@agate-pris](https://github.com/agate-pris)
 
 ##### 一時スポンサー
 - [@cuminseed](https://github.com/cuminseed)
