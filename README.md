@@ -44,7 +44,9 @@
 - [@ysaito8015](https://github.com/ysaito8015)
 - [@srz-zumix](https://github.com/srz-zumix)
 - [@agate-pris](https://github.com/agate-pris)
-- [ngtkana](https://github.com/ngtkana)
+- [@ngtkana](https://github.com/ngtkana)
+- [@urabexon](https://github.com/urabexon)
+
 
 ##### 一時スポンサー
 - [@cuminseed](https://github.com/cuminseed)
