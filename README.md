@@ -40,7 +40,6 @@
 - [@objective-audio](https://github.com/objective-audio)
 - [@kbinani](https://github.com/kbinani)
 - [@rita0222](https://github.com/rita0222)
-- [@soramimi](https://github.com/soramimi)
 - [@ysaito8015](https://github.com/ysaito8015)
 - [@srz-zumix](https://github.com/srz-zumix)
 - [@agate-pris](https://github.com/agate-pris)
@@ -70,3 +69,4 @@
 - [@yutopp](https://github.com/yutopp)
 - [@kyorohiro](https://github.com/kyorohiro)
 - [@minachun](https://github.com/minachun)
+- [@soramimi](https://github.com/soramimi)
