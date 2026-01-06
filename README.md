@@ -59,6 +59,7 @@
 - [@kztomita](https://github.com/kztomita)
 - [@yuukicammy](https://github.com/yuukicammy)
 - [@udemegane](https://github.com/udemegane)
+- [@hrkn](https://github.com/hrkn)
 
 
 ##### 過去のスポンサー
