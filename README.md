@@ -22,6 +22,8 @@
 以下の方々にスポンサーになっていただいております。ありがとうございます。
 
 ##### ゴールドスポンサー
+- [@cube-soft](https://github.com/cube-soft)
+
 ##### シルバースポンサー
 - [@dromozoa](https://github.com/dromozoa)
 - [@fixstars](https://github.com/fixstars)
