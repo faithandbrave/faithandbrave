@@ -65,6 +65,7 @@
 - [@hrkn](https://github.com/hrkn)
 - [@mattn](https://github.com/mattn)
 - [@hanazuki](https://github.com/hanazuki)
+- [@HappyLuckyAkira](https://github.com/HappyLuckyAkira)
 
 
 ##### 過去のスポンサー
