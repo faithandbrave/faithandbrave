@@ -32,6 +32,7 @@
 
 ##### ブロンズスポンサー
 - [@AsPJT](https://github.com/AsPJT)
+- [@chinsoft-ando](https://github.com/chinsoft-ando)
 
 ##### アイアンスポンサー
 - [@s-hiiragi](https://github.com/s-hiiragi)
