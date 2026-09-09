@@ -48,6 +48,7 @@
 
 
 ##### 一時スポンサー
+- [@shirouzu](https://github.com/shirouzu)
 - [@cuminseed](https://github.com/cuminseed)
 - [@kmt-t](https://github.com/kmt-t)
 - [@azaika](https://github.com/azaika)
