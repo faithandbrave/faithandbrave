@@ -64,6 +64,7 @@
 - [@udemegane](https://github.com/udemegane)
 - [@hrkn](https://github.com/hrkn)
 - [@mattn](https://github.com/mattn)
+- [@hanazuki](https://github.com/hanazuki)
 
 
 ##### 過去のスポンサー
